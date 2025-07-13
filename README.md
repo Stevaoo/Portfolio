@@ -1,4 +1,4 @@
-# # Portfólio Pessoal - Stevão Rodrigues
+# Portfólio Pessoal - Stevão Rodrigues
 
 Este é o meu portfólio pessoal, criado para apresentar minhas habilidades, projetos e informações de contato de forma clara e moderna. O site é responsivo, acessível e focado em uma boa experiência para o usuário.
 
